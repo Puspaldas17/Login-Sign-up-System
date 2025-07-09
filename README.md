@@ -1,25 +1,34 @@
-# Login-Sign-up-System
-<h3>A simple login | sign up | sign out | forget password | Email verification bundle pages.</h3>
+# 🔐 Login-Sign-Up System
 
-<h2>Screenshot</h2> 
-<p>
+A simple and secure **user authentication system** built with **PHP**, **MySQL**, and **JavaScript**. Includes full functionality for login, sign-up, logout, password reset, and email verification.
 
-<center>
-  <h3>Login page</h3>
-  <img src="14.png">
-  <p>
-  <h3>Sign up page</h3>
-  <img src="15.png">
-</center>
+---
 
-<p><p>
-<h2>Technologies used:</h2>
-<ul>
-  <li>PHP</li>
-  <li>JQuery</li>
-  <li>JavaScript</li>
-  <li>MySQL</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>The Cloudfare JQuery embeded just right before the <code> /body </code> tag loads online:       http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js</li>
- </ul>
+## 📸 Screenshots
+
+### 🔑 Login Page
+![Login Page](14.png)
+
+### 📝 Sign-Up Page
+![Sign-Up Page](15.png)
+
+---
+
+## 💡 Features
+
+- 🔐 Secure Login & Sign-Up
+- 📧 Email Verification
+- 🔁 Forgot Password Functionality
+- 🚪 Logout System
+- ✅ Front-end Validation with jQuery
+- 📦 Clean and structured file organization
+
+---
+
+## 🛠️ Technologies Used
+
+- **PHP** – Backend scripting
+- **MySQL** – Database
+- **JavaScript / jQuery** – Client-side interactivity
+- **HTML5 & CSS3** – Frontend design
+- **Cloudflare CDN** – jQuery (via: `http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js`)
